@@ -1,89 +1,75 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Nicole Alfaro's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+Currently, I am a Data Analyst Intern for Balance Innovations. I enjoy using data science to make meaningful change, and I am looking for new data science internship opportunities for summer 2023. 
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="nclealfaro@gmail.com">nclealfaro@gmail.com</a>
+| <a href="https://www.linkedin.com/in/nicole-alfaro-405775158/">LinkedIn</a>
+| <a href="https://github.com/nicolealf">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`Expected 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- BS - Mathematical Sciences 
+- Emphasis - Applied Statistics
 
 
-## Related Experience
+## Work Experience
 
-### Internships
+### Data Analyst Intern
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`September 2022 - Current`
+__Balance Innovations, A Brink's Division__, Lenexa, KS
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Used excel to update and analyze data from 17 stores within the United States to ensure optimal cash and coin levels. 
+- Identified, analyzed, and interpreted trends within complex data sets. 
+- Retrieved data from various reporting systems and used tools to generate recommendations.
+- Communicated with third parties on a daily basis and placed orders with banking partners. 
 
 
-## Service and Work History
+### Spatial Data Annotator
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`December 2021 - September 2022`
+__Research and Business Development Center__, Rexburg, ID
+
+- Annotated the point clouds of more than 50 facilities for a machine learning project to automate forklift operations.
+- Created over 30 CAD drawings of cold storage facilities for Lineage Logistics using pycharm. 
+- Administered to the needs of a team of 14 annotators as Team Lead to address the questions or concerns they had.
+- Studied and learned about the application and purpose of various machine learning algorithms.   
+ 
+## Related Experiences
+
+### RBDC Data Science Consulting Group
+
+`September 2022 - December 2022`
+__Idaho Falls School District 91__, Rexburg, ID
+
+- Cleaned and analyzed over 2 million rows of attendance and demographic data to create meaningful visualizations. 
+- Used Power BI to create informative and engaging reports to help the School District advocate for more funding.
+- Attended bi-monthly meetings with 4 other team members as well as staff members from the School District.
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+`January 2022 - May 2022`
+__The Wilford Woodruff Foundation__, Rexburg, ID
+
+- Analyzed more than 3,000 rows of historical text data to conduct sentiment analysis for the Wilford Woodruff Foundation. 
+- Used R to do a statistical analysis on collocations related to important themes within the Wilford Woodruff papers. 
+- Collaborated with 2 other team members to analyze and place insights discovered from the data within historical context.
+- Presented to over 150 people, including industry professionals as well as Data Science undergraduates from two universities in Salt Lake City.
+
+
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: December 2022 -->
 
 
