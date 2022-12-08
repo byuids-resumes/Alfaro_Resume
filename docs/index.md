@@ -29,8 +29,8 @@ __Brigham Young University - Idaho__, Rexburg, ID
 __Balance Innovations, A Brink's Division__, Lenexa, KS
 
 - Used excel to update and analyze data from 17 stores within the United States to ensure optimal cash and coin levels. 
-- Identified, analyzed, and interpreted trends within complex data sets. ##W
-- Retrieved data from various reporting systems and used tools to generate recommendations. ##
+- Identified, analyzed, and interpreted trends within complex data sets. 
+- Retrieved data from various reporting systems and used tools to generate recommendations. 
 - Communicated with third parties on a daily basis and placed orders with banking partners. 
 
 
